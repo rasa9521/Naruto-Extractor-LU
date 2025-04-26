@@ -2,7 +2,7 @@ import os
 
 class Config(object):
     BOT_TOKEN = "8003649544:AAGoiThVN8KLJyKGsGf1BcfTsjDTrSmjFR8"
-    API_ID = 27900743
+    API_ID = "27900743"
     API_HASH = "ebb06ea8d41420e60b29140dcee902fc"
     ADMIN = '7804396225'.split(',')
     ADMIN_ID = [int(id) for id in ADMIN]
